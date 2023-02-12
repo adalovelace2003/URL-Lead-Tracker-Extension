@@ -10,11 +10,6 @@
   <li>Click the "Load unpacked" button and select the folder containing the source code.</li>
   <li>The URL Lead Tracker Extension should now appear in the list of installed extensions in Google Chrome.</li>
 </ul>
-<h1>Features</h1>
-<ul>
-  <li>Lead capture: Add new leads to your database, including their contact information and any notes about their interest.</li>
-  <li>Lead classification: Categorize leads based on factors such as their industry, job title, location, etc.</li>
-</ul>
 <h1>Usage</h1>
 <p>Using the URL Lead Tracker Extension is easy and straightforward:</p>
 <ul>
