@@ -1,3 +1,4 @@
+![Preview Image](https://i.ibb.co/T8Y4xVD/preview.png)
 <h1>Introduction</h1>
 <p>The URL Lead Tracker Extension is a simple and easy-to-use tool that helps you manage your browsing experience. This extension, my first project using JavaScript, enables you to bookmark important websites and pages with just a click, so you can access them quickly and easily later. Whether you're a busy professional or a student, the URL Lead Tracker Extension will simplify your life and help you stay organized.</p>
 <h1>Installation</h1>
